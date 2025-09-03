@@ -25,7 +25,7 @@
 1. Clone the repository:
 
 ```bash
-git clone <repository-url> tracer
+git clone git@github.com:KenPrz/tracer.git tracer
 cd tracer
 ```
 
